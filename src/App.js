@@ -1,6 +1,6 @@
-import HomePage from './homapage.component'
+import React from 'react';
+import HomePage from './pages/homepage/homapage.component';
 import './App.css';
-
 function App() {
   return (
     <div>
@@ -8,5 +8,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
